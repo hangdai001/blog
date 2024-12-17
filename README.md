@@ -1,0 +1,2 @@
+# blog
+DJANGO WEB APP
